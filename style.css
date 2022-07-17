@@ -1,0 +1,401 @@
+body{
+    background-color: rgb(244, 242, 246);
+    border-radius: 40px;
+}
+.ulist{
+    display: flex;
+    justify-content: space-between;
+    color: beige;
+    /* margin-top: 10px; */
+    /* margin-bottom: 5px; */
+    background-color: green;
+    height: 40px;
+    flex-direction: row;
+
+}
+.list{
+    margin-top: 8px;
+}
+.sec-nav{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+    justify-content: space-around;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    /* margin-left: 20px; */
+}
+dl{
+    margin-left: 10px;
+}
+.cock-pic{
+    width: 20%;
+    margin-left: 30px;
+}
+.ferme{
+    margin-left: 30px;
+}
+.main-page{
+    display: flex;
+    margin-left: 60px;
+    /* width: 70%; */
+    height: 300px;
+    margin-right: 60px;
+    /* background-color: purple; */
+    /* border-radius: 40px; */
+    margin-top: 0px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding: 50px;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.org{
+    width: 30%;
+    /* background-color: blue; */
+    font-weight: bolder;
+    /* margin-right: 80px; */
+    color: rgb(5, 44, 5);
+    position: absolute;
+    /* margin-bottom: 90px; */
+    margin-top: 20px;
+    letter-spacing: 4px;
+    /* font: 40cm sans-serif; */
+    font-size: 100px;
+    height: 100px;
+}
+.cab{
+    width: 80%;
+    margin-top: 60px;
+    /* position: absolute; */
+    border-bottom: 60px;
+    /* margin-right: 90px; */
+    padding-left: 0px;
+    margin-left: 0%x;
+}
+.mint{
+    width: 10%;
+    /* background-color: blue; */
+    /* position: absolute; */
+    height: 90px;
+    margin-top: 15%;
+
+}
+.fresh{
+    /* width: 80%; */
+    margin-left: 50px;
+    padding-top: 20px;
+    letter-spacing: 5px;
+    color: rgb(5, 44, 5);
+    /* margin-top: 30px; */
+    font-size: 100px;
+    /* height: 150px; */
+    font-weight: bolder;
+}
+
+.discover{
+    /* text-align: center; */
+    /* align-items: center; */
+    text-align: left;
+    
+    /* background-color: blue; */
+    margin-left: 20%;
+    padding-top: 0px;
+    /* align-items: ; */
+}
+button{
+    /* background-color: rgb(13, 56, 13); */
+    color: beige;
+    width: 16%;
+    margin-top: 20px;
+    background-color: rgb(5, 44, 5);
+    padding: 5px;
+    /* text-align: left; */
+    margin-left: 20%;
+    height: 40px;
+}
+.first-article{
+    display: flex;
+    flex-direction: row;
+    margin-top: 80px;
+    margin-left: 60px;
+    justify-content: space-between;
+}
+.tom{
+    width: 80%;
+    /* box-shadow: -20px -20px 10px  green; */
+    box-shadow: 20px 20px  10px rgb(107, 107, 163);
+    /* transform: rotateY(-45deg); */
+    /* box-shadow: ; */
+}
+
+.first-icon{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* background-color: aqua; */
+    padding: 70px;
+    margin-top: 40px;
+    /* margin-bottom: 0px; */
+    width: 80%;
+    /* width: 80%; */
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.produce{
+    margin-left: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.icon-A{
+    /* background-color: rgb(151, 186, 159); */
+    border-radius: 90px;
+    margin-left: 10px;
+    /* color: rgb(25, 16, 4); */
+    color: rgb(5, 44, 5);
+    width: 42%;
+}
+
+.veg-sec{
+    /* align-items: center; */
+    text-align: center;
+    color: rgb(5, 44, 5);
+}
+.pro{
+    font-size: 50px;
+}
+.savoy{
+    width: 130%;
+    /* background-color: orangered; */
+    margin-left: 0%;
+    margin-right: 2%;
+    margin-top: 80px;
+}
+.savoyr{
+    margin-left: 10%;
+    width: 230px;
+    /* text-align: ; */
+    /* align-items: center; */
+    
+    height: 350px;
+    border-radius: 230px;
+    padding: 60px;
+    background-color: rgb(241, 135, 96);
+}
+.camou{
+    margin-left: 20px;
+}
+
+.veg-div{
+    display: flex;
+    flex-direction: row;
+    color: bisque;
+    margin-right: 35px;
+    justify-content: center;
+}
+.savoyr:hover{
+    width: 300px;
+}
+
+.tom2{
+    width: 75%;
+    /* box-shadow: -20px -20px 10px  green; */
+    box-shadow: -20px -20px  10px green;
+    margin-top: 50px;
+    margin-left: 100px;
+    /* transform: rotateY(-45deg); */
+    /* box-shadow: ; */
+}
+
+
+.volun{
+    display: flex;
+    padding: 50px;
+    color: rgb(8, 42, 8);
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.volun-parag{
+    font-size: 50px;
+    font-weight: 700px;
+}
+
+.garden-pic{
+    width: 50%;
+    box-shadow: 30px 30px  30px orangered;
+    height: 400px;
+}
+
+.garden{
+    /* align-items: center; */
+    text-align: center;
+    /* box-shadow: 20px 20px  10px green; */
+    /* box-shadow: 10px 10px rgb(145, 63, 34); */
+    /* justify-content: center; */
+    /* justify-items: center; */
+}
+
+.volun-parag2{
+   text-align: center; 
+   margin-top: 100px;
+   font-size: 40px;
+}
+.veg-box{
+    width: 65%;
+    margin-top: 70px;
+    /* text-align: center; */
+    margin-left: 80px;
+    /* padding-right: 80px; */
+    /* background-color: aquamarine; */
+}
+
+.vegbox-div{
+    /* margin-left: 10%; */
+    width: 100%;
+    /* text-align: center; */
+    /* align-items: center; */
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    height: 400px;
+    border-radius: 60px;
+    
+    /* padding: 120px; */
+    /* padding-right: 140px; */
+    background-color: #e3f0ed;
+    /* background-color: rgb(207, 220, 205); */
+}
+.smoothie{
+    width: 50%;
+    box-shadow: 20px 20px 20px rgb(6, 47, 6);
+    height: 350px;
+    margin-left: 40%;
+    /* margin-right: 5%; */
+    margin-top: 38px;
+}
+.smoothie-div{
+    background-color: #e3f0ed;
+    width: 50%;
+    height: 650px;
+}
+.inspo{
+    text-align: center;
+    /* font-style: italic; */
+    padding-top: 40px;
+    margin-top: 40px;
+    font-style: normal;
+    font-size: 50px;
+}
+
+.more{
+    text-align: right;
+    margin-right: 70px;
+}
+.brownie{
+    width: 90%;
+    margin-top: 60%;
+    /* padding: 30px; */
+    /* padding-right: 40px; */
+    /* text-align: left; */
+    /* margin-right: 80px; */
+    box-shadow: 20px 20px 20px rgb(69, 31, 3);
+    height: 350px;
+}
+
+.drinks{
+    display: flex;
+    justify-content: space-between;
+}
+
+.brownie-div{
+    /* background-color: blue; */
+    width: 450px;
+}
+
+.desert{
+    width: 100%;
+    /* border-radius: 20px; */
+    height: 400px;
+}
+
+footer{
+    width: 100%;
+    /* display: flex; */
+    /* justify-content: space-around; */
+    background-color: rgb(27, 84, 27);
+    height: 300px;
+}
+.cock-pic2{
+    width: 5%;
+    align-items: center;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 44%;
+    text-align: center;
+}
+.foot{
+    display: flex;
+    justify-content: space-around;
+    color: azure;
+    flex-direction: row;
+}
+.copy{
+    margin-left: 35%;
+    color: aliceblue;
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
